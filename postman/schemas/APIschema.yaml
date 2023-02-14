@@ -103,7 +103,7 @@ paths:
                     rpm: 800
                     running: true  
         '500':
-          $ref: '#/components/responses/500UnexpectedError'                                                                               
+          $ref: '#/components/responses/500UnexpectedError'
 components:
   parameters:
     vinParam:
